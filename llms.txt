@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warmth-of-your-breath/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Warmth Of Your Breath](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warmth-of-your-breath/) |
+| **Get License** | [Get License For Warmth Of Your Breath](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warmth-of-your-breath/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2240)
 
 ---
 
